@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">pr22_2_V2_GagarinovLev_PR33</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="signIn">Войти</string>
+    <string name="enter_login">Введите логин</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="error_empty_fields">Ошибка! Заполните пустые строки!</string>
+    <string name="error_not_correct_fields">Ошибка! Данные не совпадают!</string>
+    <string name="succesful_registration">Вы успешно зарегестрировались!</string>
+    <string name="enter_name_or_id">Введите имя или id покемона:</string>
+    <string name="get_info">Получить информацию!</string>
+    <string name="error_unknown_pokemon">Ошибка! Неизвестный покемон!</string>
+    <string name="get_info_from_dataBase">Получить информацию из базы данных</string>
+</resources>
